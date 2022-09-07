@@ -2,6 +2,7 @@
 using namespace std;
 #include"managesystem.h"
 //≤‚ ‘1
+//≤‚ ‘2
 
 int main()
 {
