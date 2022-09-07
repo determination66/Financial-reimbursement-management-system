@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+﻿  admin.cpp
+  aqt.cpp
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\aqt.cpp(63,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(72,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(71): message : 在编译 类 模板 成员函数“void vector<ArlTable>::CheckCapacity(void)”时
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(36): message : 查看对正在编译的函数 模板 实例化“void vector<ArlTable>::CheckCapacity(void)”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\aqt.h(25): message : 查看对正在编译的 类 模板 实例化“vector<ArlTable>”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(73,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  myvector.cpp
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(72,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(71): message : 在编译 类 模板 成员函数“void vector<Admin>::CheckCapacity(void)”时
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(36): message : 查看对正在编译的函数 模板 实例化“void vector<Admin>::CheckCapacity(void)”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\myvector.h(22): message : 查看对正在编译的 类 模板 实例化“vector<Admin>”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(73,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  person.cpp
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(72,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(71): message : 在编译 类 模板 成员函数“void vector<Person>::CheckCapacity(void)”时
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(44): message : 查看对正在编译的函数 模板 实例化“void vector<Person>::CheckCapacity(void)”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\myvector.h(16): message : 查看对正在编译的 类 模板 实例化“vector<Person>”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(73,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  managesystem.cpp
+  progress.cpp
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\progress.cpp(94,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(72,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(71): message : 在编译 类 模板 成员函数“void vector<Progress>::CheckCapacity(void)”时
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(36): message : 查看对正在编译的函数 模板 实例化“void vector<Progress>::CheckCapacity(void)”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\progress.h(31): message : 查看对正在编译的 类 模板 实例化“vector<Progress>”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(73,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  staff.cpp
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(72,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(71): message : 在编译 类 模板 成员函数“void vector<Staff>::CheckCapacity(void)”时
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(44): message : 查看对正在编译的函数 模板 实例化“void vector<Staff>::CheckCapacity(void)”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\myvector.h(19): message : 查看对正在编译的 类 模板 实例化“vector<Staff>”的引用
+D:\SomeProjects\visual stduio\repos\财务报销管理系统\财务报销管理系统\vector.hpp(73,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  财务报销管理系统.vcxproj -> D:\SomeProjects\visual stduio\repos\财务报销管理系统\x64\Debug\财务报销管理系统.exe
+=======
+﻿  财务报销管理系统.vcxproj -> D:\SomeProjects\visual stduio\repos\财务报销管理系统\x64\Debug\财务报销管理系统.exe
+>>>>>>> 7bdbce4 (test1)
