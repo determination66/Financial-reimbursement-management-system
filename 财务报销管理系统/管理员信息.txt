@@ -1,4 +1,0 @@
-admin 123
-dcl 123
-uuu 111
-bu 128
